@@ -1,0 +1,43 @@
+body {
+  background-image: url("chau-cedric-3kgqiwCYaF8-unsplash.jpg");
+}
+
+.container {
+  background-color: lightgrey;
+  max-width: 400px;
+  border-radius: 10px;
+  border: 2px solid black;
+  text-align: center;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+
+} 
+
+button {
+  display: block;
+  margin: 30px auto;
+  padding: 10px;
+  font-size: 24px;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+#inc-btn {
+  background-color: aquamarine;
+}
+#save-btn {
+  background-color: burlywood;
+}
+
+p {
+  font-size: 24px;
+  font-style: italic;
+}
